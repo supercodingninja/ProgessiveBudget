@@ -17,7 +17,7 @@ app.use(express.static('public'));
 
 mongoose.connect('mongodb://localhost/budget', {
   useNewUrlParser: true,
-  useFindAndModify: false
+  useFindAndModify: false,
 
   // These two  fixes all deprecated warnings.  Ref. https://mongoosejs.com/docs/deprecations.html
   useCreateIndex: true,
