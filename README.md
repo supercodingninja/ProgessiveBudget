@@ -25,11 +25,18 @@
 ### As A Client
 I want something that will measure and optimize the performance of my web applications. Today many of my users around the world, can access the web from older mobile devices; which means slower connections.  As our web applications continue to grow both, in size and complexity, so does my customers load times on their; which means that I can potentially lose them to competitors, if I do not address this, quickly.  I want to ensure that all of users have a good experience, optimizing performance is also an important consideration.
 
+### As A Developer
+    1.  I want to use tools such as Chrome Devtools, and Google Lighthouse; which are my primary tools for measuring web application performance.  Devtools allows me to monitor network traffic ,and inspect the size of resources downloaded to the browser; such as HTML, CSS, JavaScript and images.  Lighthouse provides a performance scoring system, based on metrics; such as application bundle size, time to interaction, time to first meaningful paint, and more!
+
+    2.  In order to deliver smaller application bundle sizes to the client, I'll perform several optimizations that involve compressing assets. This includes minifying JavaScript and CSS files, as well as compressing images. Another technique utilized to improve initial bundle size, will be lazy loading, where we will defer loading certain assets until they're needed by the application.
+
 ## Usage Information
 ###### [Back to Table of Contents](#Table-of-Contents)
 
 ## Contribution Guidelines
 ###### [Back to Table of Contents](#Table-of-Contents)
+We're a lot happier when we share!  Pleasse feel free to contribute to this most meaniful application I have ever done (final requirement for graduation).
+
 
 ### Helpful Starter Links
 ###### [Back to Table of Contents](#Table-of-Contents)
