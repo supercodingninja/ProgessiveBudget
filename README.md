@@ -5,7 +5,7 @@
 <figcaption align="center">Click 👉🏿<a href="https://uwprogressivebudget.herokuapp.com/">here</a>👈🏿 to experience this application, yourself!</figcaption>
 
 <figcaption align="center">👇Successful👇🏿 build on Heroku.
-<img src="./assets/success" width="1280" height="720" align="center"></img>
+<img src="./success" width="1280" height="720" align="center"></img>
 
 ## Table of Contents
 * [Repository Description](#Repository)
